@@ -3,4 +3,5 @@
 Olá! Bem vindo ao livro de receitas
 
 - Strogonoff de frango
-- Pavé
+- Pavê
+- Bolo de Cenoura
